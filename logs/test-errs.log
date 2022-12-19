@@ -1,0 +1,9 @@
+-- UNEXPECTED SQUARE BRACKET - D:\facultate\An3sem1\PF\Elm-Project1\src\Model\Event\Category.elm
+
+I ran into an unexpected square bracket:
+
+147|     ]
+         ^
+This ] does not match up with an earlier open square bracket. Try deleting it?
+
+`elm make` failed with exit code 1.
